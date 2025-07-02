@@ -35,7 +35,6 @@ The optimized pipeline achieved high precision and recall on imbalanced datasets
 ```
 ├── FraudDetection.ipynb       # Main notebook with full pipeline
 ├── README.md                  # Project description and instructions
-├── requirements.txt           # Required Python libraries
 ```
 
 ## 🚀 How to Run
